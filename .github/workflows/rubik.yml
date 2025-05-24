@@ -8,7 +8,7 @@ on:
     branches: [main]
 
 env:
-  IMAGE_NAME: "FlatBuild_RUBIKPi-3_xx.xx_Debian13.R.debug.ES.r000001.zip"
+  IMAGE_NAME: "FlatBuild_RUBIKPi-3_xx.xx_Debian13.R.debug.ES.r000001"
 
 jobs:
   build:
